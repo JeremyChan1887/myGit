@@ -1,1 +1,2 @@
 The test branch is used for testing.
+jasmine is a useful tool in testing.
