@@ -1,1 +1,2 @@
 Git is a version control system.
+Git can handle everything from small to very large projects.
